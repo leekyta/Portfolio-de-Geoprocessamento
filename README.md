@@ -1,4 +1,4 @@
-# Portifólio de Geoprocessamento
+# Portfólio de Geoprocessamento
 ## Mapa de análise de matrícula
 ![Mapa de análise de matrícula](Rio%20Água%20Azul.png)
 ## Objetivo: 
